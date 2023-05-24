@@ -1,0 +1,42 @@
+#one {
+    background-color: Black;
+    width: 1250px;
+    height: 75px;
+}
+
+#two {
+    background-color: rgba(219, 215, 215, 0.8);
+    width: 1250px;
+    height: 450px;
+}
+
+#three {
+    font-family: cursive;
+    color: rgb(10, 67, 67, 0.8);
+}
+
+#four {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(15, 15, 156);
+}
+
+#five {
+    background-color: rgb(29, 48, 48);
+    width: 1250px;
+    height: 120px;
+    color: grey;
+}
+
+.one {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+
+#six {
+    text-align: right;
+}
+
+#seven {
+    color: rgb(152, 3, 3);
+}
